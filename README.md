@@ -14,3 +14,5 @@ Body:{
         "title": "Course3 title",
         "description": "Course3 description"
     }
+
+    Refer image for code view: eclipse_code_view.PNG
