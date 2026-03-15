@@ -5,3 +5,12 @@ Includes 3 API without DB(static course array)
   3. POST addCourse API by course
 
 Created basic application using start.spring.io.
+
+localhost:8080/courses - GET
+localhost:8080/courses/1 - GET
+localhost:8080/courses - POST 
+Body:{
+        "id": 3,
+        "title": "Course3 title",
+        "description": "Course3 description"
+    }
